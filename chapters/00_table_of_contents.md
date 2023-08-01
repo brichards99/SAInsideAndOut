@@ -3,15 +3,15 @@
 ## What is this book about?
 
 ## Part I - SysAdmin Orientation
-* KB0010001 This book's premise
-* KB0010002 System Administration
-* KB0010006 Kanban
-* KB0010007 ServiceNow 'Good Practices'
+* KB0110001 This book's premise
+* KB0110002 System Administration
+* KB0110006 Kanban
+* KB0110007 ServiceNow 'Good Practices'
 
 ### Running the Ship
 EPIC0010031 Document the Instance Governance Plan
-* Cloning
-* Upgrades
+* KB0110101 Cloning
+* KB0110102 Upgrades
 * Modifying OOB
 * The Face of the System
 * System UI
@@ -25,11 +25,13 @@ EPIC0010031 Document the Instance Governance Plan
 * Debugging server side
 * Debugging security
 
-### Security and Availability
-
-* ACLs
-* Instance Scan
+### Tools
+* KB0110301 Instance Scan
 * System Logs 
+
+### Security and Availability
+KB0020001 Why Security?
+* ACLs
 * Emails
 * HTTP logs
 * Event History
